@@ -60,6 +60,12 @@
       </a>
       <br>Postgress
     </td>
+	   <td align="center" width="96">
+      <a>
+        <img src"https://static-00.iconduck.com/assets.00/sequelize-icon-1771x2048-7pxv0n8q.png" width="40"/>
+      </a>
+      <br>Sequelize
+    </td>
     <td align="center" width="96">
       <a>
         <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="40"/>
