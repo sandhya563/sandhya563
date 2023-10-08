@@ -54,12 +54,12 @@
       </a>
       <br>MySQL
     </td>
-    <!-- <td align="center" width="96">
+    <td align="center" width="96">
       <a>
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/233px-Postgresql_elephant.svg.png" width="40"/>
       </a>
       <br>Postgress
-    </td> -->
+    </td>
     <td align="center" width="96">
       <a>
         <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="40"/>
