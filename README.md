@@ -50,7 +50,7 @@
     </td>
     <td align="center" width="96">
       <a>
-        <img src="[https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg](https://pngimg.com/uploads/mysql/small/mysql_PNG37.png)" width="40"/>
+        <img src="https://pngimg.com/uploads/mysql/small/mysql_PNG38.png" width="40"/>
       </a>
       <br>MySQL
     </td>
