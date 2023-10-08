@@ -62,20 +62,20 @@
     </td> -->
     <td align="center" width="96">
       <a>
-        <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/html.svg" width="40"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="40"/>
       </a>
       <br>HTML
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/css.svg" width="40"/>
+        <img src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo-500x313.png" width="40"/>
       </a>
       <br>CSS
     </td>
     <!--  -->
     <td align="center" width="96">
       <a>
-        <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/bootstrap.svg" width="40"/>
+        <img src="https://brandslogos.com/wp-content/uploads/images/bootstrap-logo.png" width="40"/>
       </a>
       <br>Bootstrap
     </td>
