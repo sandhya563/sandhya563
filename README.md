@@ -32,13 +32,13 @@
   <tr>
     <td align="center" width="96">
       <a>
-        <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/py.svg" width="40"/>
+        <img src="https://imgs.search.brave.com/M-FiGkB1jPVADW6xtp-i7TJcdhipqz463z8s2cuR3WY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RpY2twbmcu/Y29tL2ltYWdlcy81/ODQ4MTUyZmNlZjEw/MTRjMGI1ZTQ5Njcu/cG5n" width="40"/>
       </a>
       <br>Python
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/js.svg" width="40"/>
+        <img src="[https://github.com/soilshubham/soilshubham/blob/main/icons/js.svg](https://imgs.search.brave.com/Ejm3Mtq4R2ImDPDkHaNGkbZSqBaaj17obWMj1D8kHLU/rs:fit:860:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy82/LzZhL0phdmFTY3Jp/cHQtbG9nby5wbmc)" width="40"/>
       </a>
       <br>Javascript
     </td>
