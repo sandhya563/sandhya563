@@ -71,7 +71,7 @@
       <a>
         <img src="https://cdn.iconscout.com/icon/free/png-256/free-react-1-282599.png?f=webp&w=256" width="40"/>
       </a>
-      <br>Recat.Js
+      <br>RecatJs
     </td>
     <td align="center" width="96">
       <a>
