@@ -119,3 +119,9 @@
 </table>
 <br>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+&nbsp;***Let's Connect ....***
+<p align="center">
+	<a href="https://www.facebook.com/Sandy Bauddha/"><img src="https://img.icons8.com/color/50/000000/facebook.png" alt="Facebook"/></a>
+	<a href="https://www.linkedin.com/in/sandhya-shakya-dev/"><img src="https://img.icons8.com/color/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.instagram.com/sandhya_bauddha28/"><img src="https://img.icons8.com/fluency/50/000000/instagram-new.png" alt="Instagram"/></a>
+</p>
