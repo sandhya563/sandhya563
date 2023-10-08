@@ -38,7 +38,7 @@
     </td>
     <td align="center" width="96">
       <a>
-        <img src="[https://github.com/soilshubham/soilshubham/blob/main/icons/js.svg](https://imgs.search.brave.com/Ejm3Mtq4R2ImDPDkHaNGkbZSqBaaj17obWMj1D8kHLU/rs:fit:860:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy82/LzZhL0phdmFTY3Jp/cHQtbG9nby5wbmc)" width="40"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="40"/>
       </a>
       <br>Javascript
     </td>
