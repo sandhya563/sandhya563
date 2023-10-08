@@ -98,7 +98,7 @@
 	</td>
       <td align="center" width="96">
       <a target="_blank" href="https://omnifood-sandhyashakya.netlify.app/">
-        <img src="https://png.pngtree.com/element_our/png_detail/20180930/food-icon-design-vector-png_120564.jpg"/>
+        <img src="https://imgs.search.brave.com/KwleRBD22HIHKfQTa6UVLLNjsNwvJkRmU4g1Jr6A2nA/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9sb2dv/ZGl4LmNvbS9sb2dv/LzcyMjE5LnBuZw"/>
       </a>
       <br>Ommifood
 	</td>
