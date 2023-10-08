@@ -62,7 +62,7 @@
     </td>
 	   <td align="center" width="96">
       <a>
-        <img src"https://static-00.iconduck.com/assets.00/sequelize-icon-1771x2048-7pxv0n8q.png" width="40"/>
+        <img src="https://static-00.iconduck.com/assets.00/sequelize-icon-443x512-pjkdgsu5.png" width="40"/>
       </a>
       <br>Sequelize
     </td>
