@@ -60,11 +60,18 @@
       </a>
       <br>Postgress
     </td>
-	   <td align="center" width="96">
+	<td align="center" width="96">
       <a>
         <img src="https://static-00.iconduck.com/assets.00/sequelize-icon-443x512-pjkdgsu5.png" width="40"/>
       </a>
       <br>Sequelize
+    </td>
+	  </td>
+	<td align="center" width="96">
+      <a>
+        <img src="https://cdn.iconscout.com/icon/free/png-256/free-react-1-282599.png?f=webp&w=256" width="40"/>
+      </a>
+      <br>Recat.Js
     </td>
     <td align="center" width="96">
       <a>
