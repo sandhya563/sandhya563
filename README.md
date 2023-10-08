@@ -68,7 +68,7 @@
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo-500x313.png" width="40"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width="40"/>
       </a>
       <br>CSS
     </td>
